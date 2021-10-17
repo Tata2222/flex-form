@@ -1,6 +1,6 @@
 # flex-form
 ## The task:
-Create HTML page with form. On form submit send form data to `https://mate-academy-form-lesson.herokuapp.com/create-application`
+Create HTML page with form. 
 ![screenshot](./references/form-example.png)
 
 - Every field should have name attribute
